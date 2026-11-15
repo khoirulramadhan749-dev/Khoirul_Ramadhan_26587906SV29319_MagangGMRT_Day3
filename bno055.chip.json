@@ -1,0 +1,37 @@
+
+{
+  "name": "BNO055",
+  "author": "Rama",
+  "pins": [
+    "VIN",
+    "GND",
+    "SCL",
+    "SDA"
+  ],
+  "controls": [
+    {
+      "id": "roll",
+      "label": "Roll (°)",
+      "type": "range",
+      "min": -90,
+      "max": 90,
+      "step": 1
+    },
+    {
+      "id": "pitch",
+      "label": "Pitch (°)",
+      "type": "range",
+      "min": -90,
+      "max": 90,
+      "step": 1
+    },
+    {
+      "id": "yaw",
+      "label": "Yaw (°)",
+      "type": "range",
+      "min": -90,
+      "max": 90,
+      "step": 1
+    }
+  ]
+}
