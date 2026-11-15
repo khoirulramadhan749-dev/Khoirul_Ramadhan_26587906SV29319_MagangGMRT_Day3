@@ -1,0 +1,1 @@
+# Khoirul_Ramadhan_26587906SV29319_MagangGMRT_Day3
